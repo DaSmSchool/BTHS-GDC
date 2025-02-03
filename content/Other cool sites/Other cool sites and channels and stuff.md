@@ -1,0 +1,21 @@
+Here are some places that I can't really categorize neatly anywhere else.
+
+## YouTube Channels
+* [[Pirate Software]]
+* [[Retro Game Mechanics Explained]]
+* [[pannenkoek2012]]
+* [[Game Maker's Toolkit]]
+* [[Hunter R.]]
+* [[Computerphile]]
+* [[GodotGameLab]]
+* [[NesHacker]]
+* [[Displaced Gamers]]
+* [[Kaze Emanuar]]
+* [[Acerola]]
+* [[Freya Holmér]]
+* [[Artindi]]
+* [[Inbound Shovel]]
+* [[RitoBandito]]
+* [[Bad Ink Studios]]
+* [[wye]]
+* [[Game Development Conference]]

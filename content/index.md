@@ -1,6 +1,13 @@
 ---
-title: Welcome to Quartz
+title: BTHS GDC
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Welcome to the BTHS Game Development Club resource site!
+
+## Quick Links:
+
+* [[Getting Started|Starting Guide]]
+* [[Tutorials]]
+* [[Engines]]
+* [[Tools]]
+* [[Other cool sites and channels and stuff]]
