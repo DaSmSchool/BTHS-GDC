@@ -15,7 +15,6 @@ Here are some places that I can't really categorize neatly anywhere else.
 * [[Freya Holmér]]
 * [[Artindi]]
 * [[Inbound Shovel]]
-* [[RitoBandito]]
 * [[Bad Ink Studios]]
 * [[wye]]
 * [[Game Development Conference]]
