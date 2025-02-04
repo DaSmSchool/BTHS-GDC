@@ -1,4 +1,4 @@
-Here are some places that I can't really categorize neatly anywhere else.
+Here are some places that I can't really categorize neatly anywhere else. Please, I beg of you, take a look at these channels on your free time. A lot of these channels have had the best hours I've ever spent watching on YouTube. Seriously.
 
 ## YouTube Channels
 * [[Pirate Software]]
